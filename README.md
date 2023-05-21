@@ -23,3 +23,6 @@ Kotlin is like a marriage of Java and Python. Where Java is a language that can 
 - Add better registration
 - Fix "\n" character at the end of files
 - Create a User class
+
+## NOTE
+The actual program is stored in TaskManager -> src -> main -> kotlin -> Main.kt. The program will create all the files it needs, so don't worry about initializing any .txt files.
